@@ -61,3 +61,5 @@ It is indeed very simple how to reun this website on your chrome . Follow these 
 
 10). Open Your browser put inside browser “http://localhost/bbdms/admin” to login as an admin ( User:admin   Pass:Test@12345 )
 
+
+YOU ARE GOOD TO GO ! ENJOY BLOOD DONATION !!!
